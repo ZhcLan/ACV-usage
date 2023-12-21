@@ -2,6 +2,10 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.gitignore
+.iml
+.idea
+.xml
 
 ### Eclipse ###
 .apt_generated
