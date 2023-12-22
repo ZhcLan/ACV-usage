@@ -1,4 +1,4 @@
-package coding_interviews;
+package com.zhc.coding_interviews;
 
 
 import controller.Active;
@@ -7,7 +7,6 @@ import model.range.Range;
 import model.sample.Argument;
 import model.util.type.IntegerPlus;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
