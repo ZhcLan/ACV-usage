@@ -73,7 +73,6 @@ public class JZ3_DuplicateNumbers {
                         new Range(0, 9999)
                 }
         );
-
         new Active().active(config, argument);
     }
 }

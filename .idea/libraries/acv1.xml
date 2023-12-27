@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="acv1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/acv-usage/lib/acv.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
