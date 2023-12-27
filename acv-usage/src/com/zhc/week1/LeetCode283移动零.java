@@ -1,15 +1,14 @@
-package com.zhc.double_pointer;
+package com.zhc.week1;
 
 import controller.Active;
 import model.config.ValidatorConfig;
-import model.range.Fate;
 import model.range.Range;
 import model.sample.Argument;
 import model.util.type.IntegerPlus;
 
 import java.util.Arrays;
 
-public class LC283_RemoveZero {
+public class LeetCode283移动零 {
     public IntegerPlus[] validator_moveZeroes(IntegerPlus[] nums) {
         int l = -1, r = 0;
         for (int i = 0; i < nums.length; i++) {
@@ -43,7 +42,7 @@ public class LC283_RemoveZero {
     public static void main(String[] args) {
         ValidatorConfig config = new ValidatorConfig(
                 1_00,
-                LC283_RemoveZero.class,
+                LeetCode283移动零.class,
                 "validator_moveZeroes",
                 "compare_moveZeros"
         );
