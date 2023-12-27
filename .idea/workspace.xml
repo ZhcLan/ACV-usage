@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fefe50a-9cdf-4861-b082-f5a2dcfd2489" name="Changes" comment="modify">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/acv1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acv-usage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acv-usage/src/com/zhc/double_pointer/LC283_RemoveZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/acv-usage/src/com/zhc/coding_interviews/JZ3_DuplicateNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/acv-usage/src/com/zhc/coding_interviews/JZ3_DuplicateNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/acv-usage/src/com/zhc/double_pointer/LC283_RemoveZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/acv-usage/src/com/zhc/double_pointer/LC283_RemoveZero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +155,7 @@
       <workItem from="1703232981394" duration="94000" />
       <workItem from="1703595531573" duration="9989000" />
       <workItem from="1703663910401" duration="1316000" />
-      <workItem from="1703665231018" duration="2536000" />
+      <workItem from="1703665231018" duration="2866000" />
     </task>
     <task id="LOCAL-00001" summary="modify">
       <option name="closed" value="true" />

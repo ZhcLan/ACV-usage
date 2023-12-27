@@ -53,6 +53,7 @@ public class LC283_RemoveZero {
                         new Range(1, 10_0000),
                         new Range(-1, -1)
                 },
+
                 // 调小数值范围,便于较多的出现0
                 new Range[]{
                         new Range(-1, -1),
